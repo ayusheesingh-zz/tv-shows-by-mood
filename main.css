@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+.xop-section {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 6% 2%;
+}
+
+.xop-grid {
+    margin: 20px 0 0 0;
+    padding: 0;
+    list-style: none;
+    display: block;
+    text-align: center;
+    width: 100%;
+}
+
+.xop-grid:after {
+    clear: both;
+}
+
+.xop-grid:after, .xop-box:before {
+    content: '';
+    display: table;
+}
+
+.xop-grid li {
+    width: 328px;
+    height: 328px;
+    display: inline-block;
+    margin: 20px;
+}
+
+.xop-img-1 {
+    background: linear-gradient( rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)), /* bottom, image */
+    url(/Users/ayushi/Desktop/Media/sf.jpeg);
+}
+
+.xop-img-2 {
+    background: linear-gradient( rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)), /* bottom, image */
+    url(/Users/ayushi/Desktop/Media/photo.jpg);
+}
+
+.xop-img-3 {
+    background: linear-gradient( rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)), /* bottom, image */
+    url(/Users/ayushi/Desktop/Media/gg2.jpeg);
+}
+
+.xop-img-4 {
+    background: linear-gradient( rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)), /* bottom, image */
+    url(/Users/ayushi/Desktop/Media/gg2.jpg);
+}
+
+.xop-img-5 {
+    background: linear-gradient( rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)), /* bottom, image */
+    url(/Users/ayushi/Desktop/Media/gg2.jpg);
+}
+
+.xop-img-6 {
+    background: linear-gradient( rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)), /* bottom, image */
+    url(/Users/ayushi/Desktop/Media/gg2.jpg);
+}
+
+.xop-img-7 {
+    background: linear-gradient( rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)), /* bottom, image */
+    url(/Users/ayushi/Desktop/Media/gg2.jpg);
+}
